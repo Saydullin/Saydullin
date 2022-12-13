@@ -1,7 +1,8 @@
 <img src="https://github-stats-alpha.vercel.app/api?username=saydullin&cc=14233A&tc=fff&ic=6666FF&bc=0000" alt="info" />
 
-- 👋 Hi, I’m @Saydullin
-- 👀 I’m interested in Android Development
+- 👋 Saydullin here
+- 🍫 I love Android Development
+- 🏫 BSUIR Student (Minsk, Belarus)
 - 📫 My telegram: t.me/Saydullin
 
 <!---
