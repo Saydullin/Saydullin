@@ -7,9 +7,9 @@
 <a href="https://t.me/saydullin"><img src="https://img.shields.io/badge/Telegram-0088CC?&style=plastic-square&logo=telegram&logoColor=white"></a></p><br>
 
 - 👋 Saydullin here
-- 🍫 I love Android Development
+- 🍫 Android Development
 - 🏫 BSUIR Student (Minsk, Belarus)
-- 📫 My telegram: t.me/Saydullin
+- 📫 Telegram: t.me/Saydullin
 
 <!---
 Saydullin/Saydullin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
