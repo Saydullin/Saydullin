@@ -6,10 +6,8 @@
 <a href="mailto:saydullindev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&style=plastic-square&logo=gmail&logoColor=white"></a>
 <a href="https://t.me/saydullin"><img src="https://img.shields.io/badge/Telegram-0088CC?&style=plastic-square&logo=telegram&logoColor=white"></a></p><br>
 
-- 👋 Saydullin here
-- 🍫 Android Development
-- 🏫 BSUIR Student (Minsk, Belarus)
-- 📫 Telegram: t.me/Saydullin
+Saydullin, 20 y.o., student, android developer.
+📫 Telegram: t.me/Saydullin
 
 <!---
 Saydullin/Saydullin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
