@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github-stats-alpha.vercel.app/api?username=saydullin&cc=20232A&tc=fff&ic=61D9FA&bc=0000" alt="info" />
 <a href="https://github.com/saydullin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saydullin&theme=react&hide_border=true&card_width=495" alt="mystreak"/></a></p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=saydullin&theme=tokyonight" alt="mystreak"/>
 <p align="center">
 <a href="https://www.linkedin.com/in/saydullin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:saydullindev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&style=plastic-square&logo=gmail&logoColor=white"></a>
