@@ -5,7 +5,7 @@
 <a href="https://t.me/saydullin"><img src="https://img.shields.io/badge/Telegram-0088CC?&style=plastic-square&logo=telegram&logoColor=white"></a></p><br>
 
 <p align="center">
-Saydullin, 20 y.o., student. Web, Android developer.
+Saydullin, 21 y.o., student. Web, Android developer.
 📫 Telegram: t.me/Saydullin
 </p>
 
